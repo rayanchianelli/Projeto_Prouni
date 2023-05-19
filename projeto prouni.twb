@@ -585,6 +585,53 @@
               <bucket>&quot;AMARELA&quot;</bucket>
             </map>
           </encoding>
+          <encoding attr='color' field='[none:AREA:nk]' palette='blue_teal_10_0' type='palette'>
+            <map to='#2c5985'>
+              <bucket>&quot;SAÚDE&quot;</bucket>
+            </map>
+            <map to='#2e628d'>
+              <bucket>&quot;OUTROS&quot;</bucket>
+            </map>
+            <map to='#306c94'>
+              <bucket>&quot;NEGÓCIOS&quot;</bucket>
+            </map>
+            <map to='#32779c'>
+              <bucket>&quot;MEDICINA&quot;</bucket>
+            </map>
+            <map to='#3482a4'>
+              <bucket>&quot;ENGENHARIAS&quot;</bucket>
+            </map>
+            <map to='#358cac'>
+              <bucket>&quot;EDUCAÇÃO&quot;</bucket>
+            </map>
+            <map to='#3c97b2'>
+              <bucket>&quot;DIREITO&quot;</bucket>
+            </map>
+            <map to='#45a2b9'>
+              <bucket>&quot;COMUNICAÇÃO&quot;</bucket>
+            </map>
+            <map to='#57abbe'>
+              <bucket>&quot;CIÊNCIAS SOCIAIS E HUMANAS&quot;</bucket>
+            </map>
+            <map to='#69b5c3'>
+              <bucket>&quot;CIÊNCIAS SOCIAIS APLICADAS&quot;</bucket>
+            </map>
+            <map to='#79bec8'>
+              <bucket>&quot;CIÊNCIAS NATURAIS E EXATAS&quot;</bucket>
+            </map>
+            <map to='#89c7cc'>
+              <bucket>&quot;CIÊNCIAS DA COMPUTAÇÃO&quot;</bucket>
+            </map>
+            <map to='#99d0d0'>
+              <bucket>&quot;CIÊNCIAS AMBIENTAIS&quot;</bucket>
+            </map>
+            <map to='#aadad4'>
+              <bucket>&quot;CIÊNCIAS AGRÁRIAS&quot;</bucket>
+            </map>
+            <map to='#bce4d8'>
+              <bucket>&quot;ARTES E HUMANIDADES&quot;</bucket>
+            </map>
+          </encoding>
           <encoding attr='color' field='[none:UF:nk]' palette='blue_teal_10_0' type='palette'>
             <map to='#2c5985'>
               <bucket>&quot;TO&quot;</bucket>
@@ -669,53 +716,6 @@
             </map>
             <map to='#bce4d8'>
               <bucket>%null%</bucket>
-            </map>
-          </encoding>
-          <encoding attr='color' field='[none:AREA:nk]' palette='blue_teal_10_0' type='palette'>
-            <map to='#2c5985'>
-              <bucket>&quot;SAÚDE&quot;</bucket>
-            </map>
-            <map to='#2e628d'>
-              <bucket>&quot;OUTROS&quot;</bucket>
-            </map>
-            <map to='#306c94'>
-              <bucket>&quot;NEGÓCIOS&quot;</bucket>
-            </map>
-            <map to='#32779c'>
-              <bucket>&quot;MEDICINA&quot;</bucket>
-            </map>
-            <map to='#3482a4'>
-              <bucket>&quot;ENGENHARIAS&quot;</bucket>
-            </map>
-            <map to='#358cac'>
-              <bucket>&quot;EDUCAÇÃO&quot;</bucket>
-            </map>
-            <map to='#3c97b2'>
-              <bucket>&quot;DIREITO&quot;</bucket>
-            </map>
-            <map to='#45a2b9'>
-              <bucket>&quot;COMUNICAÇÃO&quot;</bucket>
-            </map>
-            <map to='#57abbe'>
-              <bucket>&quot;CIÊNCIAS SOCIAIS E HUMANAS&quot;</bucket>
-            </map>
-            <map to='#69b5c3'>
-              <bucket>&quot;CIÊNCIAS SOCIAIS APLICADAS&quot;</bucket>
-            </map>
-            <map to='#79bec8'>
-              <bucket>&quot;CIÊNCIAS NATURAIS E EXATAS&quot;</bucket>
-            </map>
-            <map to='#89c7cc'>
-              <bucket>&quot;CIÊNCIAS DA COMPUTAÇÃO&quot;</bucket>
-            </map>
-            <map to='#99d0d0'>
-              <bucket>&quot;CIÊNCIAS AMBIENTAIS&quot;</bucket>
-            </map>
-            <map to='#aadad4'>
-              <bucket>&quot;CIÊNCIAS AGRÁRIAS&quot;</bucket>
-            </map>
-            <map to='#bce4d8'>
-              <bucket>&quot;ARTES E HUMANIDADES&quot;</bucket>
             </map>
           </encoding>
         </style-rule>
@@ -2377,8 +2377,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='2750' minheight='2750' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='87' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='99238' id='86' param='vert' type-v2='layout-flow' w='98400' x='800' y='381'>
+            <zone h='100000' id='89' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='99238' id='88' param='vert' type-v2='layout-flow' w='98400' x='800' y='381'>
                 <zone fixed-size='280' h='16476' id='9' is-centered='0' is-fixed='true' is-scaled='1' param='C:/Users/rayan/OneDrive/Imagens/Capturas de Ecrã/prouni.png' type-v2='bitmap' w='66600' x='12600' y='667'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -3109,7 +3109,7 @@
         </viewpoint>
         <viewpoint name='modalidade' />
       </viewpoints>
-      <active id='14' />
+      <active id='59' />
       <simple-id uuid='{55A604B9-B576-42A8-A730-DC51238CC3F4}' />
     </window>
   </windows>
