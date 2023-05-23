@@ -19,6 +19,7 @@ em 2004, que oferece bolsas de estudo em instituições particulares de educaç�
   - Python
   - Numpy
   - Pandas
+  - Tableau
   - Machine learning
 
 
